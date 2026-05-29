@@ -1,0 +1,13 @@
+{
+  "name": "starvideo",
+  "version": "1.0.0",
+  "description": "upload videoa and real time tweete",
+  "license": "ISC",
+  "author": "Kartik",
+  "type": "model",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
